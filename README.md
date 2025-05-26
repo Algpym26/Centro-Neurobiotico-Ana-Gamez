@@ -2,7 +2,7 @@
 Plataforma web para el Centro Neurológico AGP, liderado por Ana Gámez. Ofrece información sobre servicios de neurobiótica, agendamiento de citas, contacto, blog educativo y recursos para mejorar la salud neurológica de manera natural e integral.
 
 
-# 🧠 Centro Neurológico AGP - Ana Gámez
+# 🧠 Centro Neurológico Ana Gámez
 
 Bienvenido al repositorio del **Centro Neurobiótico AGP**, una plataforma desarrollada para brindar atención, educación y herramientas digitales relacionadas con la neurobiótica y la salud neurológica natural, liderada por **Ana Gámez**.
 
